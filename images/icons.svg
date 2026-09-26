@@ -37,4 +37,12 @@
   <path d="M32 0 0 18l10.227 3.787L26 7 14.003 23.187l.009.003-.012-.003V32l5.735-6.691L27.002 28 32 0Z"/>
 </symbol>
 
+
+<symbol id="icon-x" viewBox="0 0 32 32">
+  <path fill="currentColor" d="M25.2 3h4.9L19.4 15.2 32 29h-9.9l-7.8-10.2L5.4 29H.5l11.6-13.3L0 3h10.1l7 9.2L25.2 3Zm-1.7 23.6h2.7L8.6 5.2H5.7l17.8 21.4Z"/>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 32 32">
+  <path fill="currentColor" d="M4 7h24v2.7H4V7Zm0 7.7h24v2.6H4v-2.6Zm0 7.6h24V25H4v-2.7Z"/>
+</symbol>
+
 </defs></svg>
